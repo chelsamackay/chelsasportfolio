@@ -511,7 +511,7 @@ margin-bottom: 15px;}
 	display: block;
 }
 .social-links ul li a i{color: #fff;}
-.social-links ul li a i:hover{color: #5B5658;}
+.social-links ul li a i:hover{color: #404040;}
 .header-links ul li a {
 	color: #fafafa;
 }
@@ -796,7 +796,7 @@ margin-bottom: 15px;}
   height: 8px;
   content: "";
   transform: rotate(45deg);
-  background-color: #5B5658;
+  background-color: #404040;
   ;
 }
 .btn-style2 {
@@ -1387,9 +1387,9 @@ margin-bottom: 15px;}
 }
 
 .contact-detail .social-icons a:hover i {
-  background: #5B5658;
+  background: #404040;
 color: #fff;
-border: 1px solid #5B5658;}
+border: 1px solid #404040;}
 
 .contact-detail .social-icons p {
   font-weight: 600;
@@ -1439,14 +1439,14 @@ border: 1px solid #5B5658;}
   transition: all 0.3s ease 0s;
 }
 #contact-form button:hover{
-	background:#5B5658;
+	background:#404040;
   color: #fff;}
 
 /* -------------------------------------------------------------
 *    12. Footer Area
 * -------------------------------------------------------------*/
 .footer-area {
-  background: #5B5658;
+  background: #383838;
   padding: 40px 0px;
 }
 
@@ -1461,7 +1461,7 @@ border: 1px solid #5B5658;}
 
 .social-links-2 ul li a {
 	font-size: 18px;
-	color: #f5f5f5; #5B5658;
+	color: #f5f5f5; #404040;
 	margin: 25px 10px;
 	display: block;
 }
@@ -1476,12 +1476,12 @@ border: 1px solid #5B5658;}
 	color: #f5f5f5;
 }
 
-.social-links-2 ul li a i:hover{background: #5B5658;
+.social-links-2 ul li a i:hover{background: #404040;
 								transition: 0.5s;
 								color: #fff;}
 .footer-area p i{color: red;}
 .footer-area p a{color: #fff;}                                
-.footer-area p a:hover {color: #5B5658;}
+.footer-area p a:hover {color: #383838;}
 
 /* 1.8. MODAL */
 .modal {

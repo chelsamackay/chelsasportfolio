@@ -560,7 +560,7 @@ margin-bottom: 15px;}
 
 .about {
   position: relative;
-	background-color: #404040;
+	background-color: #333333;
 }
 
 .about .hello-text p {
@@ -678,7 +678,7 @@ margin-bottom: 15px;}
 * -------------------------------------------------------------*/
 
 .skills {
-  background: url("img/bg/buy-bg.jpg");
+  background: url("img/bg/skills.jpg");
   background-size: cover;
 }
 
@@ -686,7 +686,7 @@ margin-bottom: 15px;}
   position: relative;
 }
 .padding-style1 {
-  padding: 0px 0;
+  padding: 0px 20;
 }
 .skill-heading-area {
   margin-top: 92px;
@@ -703,7 +703,7 @@ margin-bottom: 15px;}
 }
 
 .skill-heading-area h4 {
-  padding-top: 30px;
+  padding-top: 50px;
   padding-bottom: 20px;
 }
 
@@ -718,7 +718,7 @@ margin-bottom: 15px;}
 .skills-content .progressbar-area p {
   margin-bottom: 21px;
   font-weight: 500;
-  color: #b3b3b3;
+  color: #7c7c7c;
   font-size: 15px;
 }
 
@@ -818,7 +818,7 @@ margin-bottom: 15px;}
 * -------------------------------------------------------------*/
 
 .services {
-  background-color: rgba(234, 234, 234, 0.6);
+  background-color: rgba(234, 234, 234, 0.856);
   text-align: center;
 }
 
@@ -976,8 +976,9 @@ margin-bottom: 15px;}
 * -------------------------------------------------------------*/
 
 .experience {
-  background: url("img/bg/experience-bg.jpg");
+  background: url("img/bg/buy-bg.jpg");
   background-attachment: fixed; 
+  background-size: cover;
 }
 
 .experience-header {
@@ -1051,7 +1052,7 @@ margin-bottom: 15px;}
   position: absolute;
   width: 18px;
   height: 18px;
-  border: 5px solid #407495;
+  border: 5px solid #151f15;
   border-radius: 25px;
   left: -22px;
   text-align: center;
